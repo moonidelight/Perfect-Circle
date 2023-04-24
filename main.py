@@ -63,7 +63,7 @@ def main():
     radius = 0
     color = []
     error_message = ""
-    percentage = "XX"
+    percentage = "XX."
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
